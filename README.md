@@ -1,5 +1,6 @@
 MemCached.Client
 ================
 
-¸üÐÂ MemCached.ClientLibrary Îª .Net 4 
-¸üÐÂ log4net °æ±¾Îª 1.2.11
+æ›´æ–° MemCached.ClientLibrary ä¸º .Net 4 
+
+æ›´æ–° log4net ç‰ˆæœ¬ä¸º 1.2.11
